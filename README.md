@@ -10,7 +10,7 @@ A VRCFury syringe for Avatars 3.0 in VRChat!
 ## Installation
 
 1. Install [注射器（Syringe）](https://booth.pm/en/items/2501811).
-2. Add this package's listing to the VCC: .
+2. [Add this package's listing to the VCC.](https://cassidyprather.github.io/avatar-syringe/)
 3. Add this package to the project via the VCC.
 4. Instantiate `Packages/Avatar Syringe/Syringe` to the location on the avatar you would like it to be held (e.g. the armature's hands). *In my example, I parented it to the right pinky finger, so I could nest the lip of the back of the syringe consistently between the fingers.*
 
