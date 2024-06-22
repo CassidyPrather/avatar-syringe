@@ -1,7 +1,7 @@
 {
   "name": "vrc.cassidyco.avatar-syringe",
   "displayName": "Avatar Syringe",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "unity": "2022.3",
   "description": "Simple handheld avatar syringe",
   "vrchatVersion": "2022.1.1",

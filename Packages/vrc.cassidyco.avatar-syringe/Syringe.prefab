@@ -1,0 +1,294 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5779971492356372741
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_Name
+      value: Syringe
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4374949704768965215, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6879984783987584286, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097101163049833521, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_DirtyAABB
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097101163049833521, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_AABB.m_Center.x
+      value: -0.00030187052
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097101163049833521, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_AABB.m_Center.y
+      value: -0.041109137
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097101163049833521, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_AABB.m_Center.z
+      value: -0.00000025099143
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097101163049833521, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_AABB.m_Extent.x
+      value: 0.0154843675
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097101163049833521, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_AABB.m_Extent.y
+      value: 0.051621847
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097101163049833521, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_AABB.m_Extent.z
+      value: 0.015484359
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097101163049833521, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7854961261784305436}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1990799545308779357}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 07cea6589c7181b4981374280b8b5b9b,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8913381238198809095}
+  m_SourcePrefab: {fileID: 100100000, guid: 07cea6589c7181b4981374280b8b5b9b, type: 3}
+--- !u!1 &6699100748715918420 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 07cea6589c7181b4981374280b8b5b9b,
+    type: 3}
+  m_PrefabInstance: {fileID: 5779971492356372741}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &7854961261784305436
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6699100748715918420}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 872dcd6ae00cc4845baab112fe4da64b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1990799545308779357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6699100748715918420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.974.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 964041319839170560
+  references:
+    version: 2
+    RefIds:
+    - rid: 964041319839170560
+      type: {class: FullController, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 4
+        controllers:
+        - controller:
+            version: 1
+            fileID: 0
+            guid: 
+            id: 872dcd6ae00cc4845baab112fe4da64b|Packages/vrc.cassidyco.avatar-syringe/SyringeFX.controller
+            objRef: {fileID: 9100000, guid: 872dcd6ae00cc4845baab112fe4da64b, type: 2}
+          type: 5
+        menus:
+        - menu:
+            version: 1
+            fileID: 0
+            guid: 
+            id: 00bd3271b466dcd4ab10d3fb11315000|Packages/vrc.cassidyco.avatar-syringe/SyringeMenu.asset
+            objRef: {fileID: 11400000, guid: 00bd3271b466dcd4ab10d3fb11315000, type: 2}
+          prefix: Props
+        prms:
+        - parameters:
+            version: 1
+            fileID: 0
+            guid: 
+            id: 91e1d32254091144287fa5616eec653c|Packages/vrc.cassidyco.avatar-syringe/SyringeParam.asset
+            objRef: {fileID: 11400000, guid: 91e1d32254091144287fa5616eec653c, type: 2}
+        smoothedPrms: []
+        globalParams: []
+        allNonsyncedAreGlobal: 0
+        ignoreSaved: 0
+        toggleParam: 
+        rootObjOverride: {fileID: 0}
+        rootBindingsApplyToAvatar: 0
+        rewriteBindings: []
+        allowMissingAssets: 0
+        controller:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 
+          objRef: {fileID: 0}
+        menu:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 
+          objRef: {fileID: 0}
+        parameters:
+          version: 1
+          fileID: 0
+          guid: 
+          id: 
+          objRef: {fileID: 0}
+        submenu: 
+        removePrefixes: []
+        addPrefix: 
+        useSecurityForToggle: 0
+--- !u!114 &8913381238198809095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6699100748715918420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.974.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 964041319839170561
+  references:
+    version: 2
+    RefIds:
+    - rid: 964041319839170561
+      type: {class: SetIcon, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 1
+        path: Props
+        icon:
+          version: 1
+          fileID: 0
+          guid: 
+          id: ad2ecba86aeb84641a7907bf7aee20e0|Packages/vrc.cassidyco.avatar-syringe/Icons/toolbox.png
+          objRef: {fileID: 2800000, guid: ad2ecba86aeb84641a7907bf7aee20e0, type: 3}
