@@ -1,0 +1,18 @@
+{
+  "name": "vrc.cassidyco.avatar-syringe",
+  "displayName": "Avatar Syringe",
+  "version": "0.0.0",
+  "unity": "2022.3",
+  "description": "Simple handheld avatar syringe",
+  "vrchatVersion": "2022.1.1",
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.6.1",
+    "com.vrcfury.vrcfury": "1.974.0",
+    "jp.lilxyzw.liltoon": "1.7.3"
+  },
+  "author": {
+    "name": "Cassidy Prather",
+    "email": "pratherea@gmail.com",
+    "url": "https://cohost.org/CassidyCo"
+  }
+}
