@@ -6,9 +6,9 @@
   "description": "Simple handheld avatar syringe",
   "vrchatVersion": "2022.1.1",
   "vpmDependencies": {
-    "com.vrchat.avatars": "3.6.1",
-    "com.vrcfury.vrcfury": "1.974.0",
-    "jp.lilxyzw.liltoon": "1.7.3"
+    "com.vrchat.avatars": ">=3.6.1 <4.0.0",
+    "com.vrcfury.vrcfury": ">=1.974.0 <2.0.0",
+    "jp.lilxyzw.liltoon": ">=1.7.3 <2.0.0"
   },
   "author": {
     "name": "Cassidy Prather",
